@@ -4,4 +4,8 @@ this is 2nd developed code
 
 idhu raju Author
 
+<<<<<<< HEAD
 GUI la mathunadhu theriyadhu
+=======
+pull request
+>>>>>>> 866baea31ea0366e7cdc950499c12d8d983ed4da
